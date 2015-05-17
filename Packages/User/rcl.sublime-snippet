@@ -1,0 +1,25 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+var React    = require('react');
+
+class ${1:name} extends React.Component {
+	render() {
+		return(
+			<div>
+			</div>
+		);
+	}
+}
+
+${1:name}.propTypes = {
+};
+
+module.exports = ${1:name};
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>rcl</tabTrigger>
+  <description>Create react class</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js, storage.type.js</scope>
+</snippet>

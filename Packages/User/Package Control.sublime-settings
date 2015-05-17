@@ -1,0 +1,50 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Babel",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"ColorSchemeEditor",
+		"ColorSchemeSelector",
+		"Colorsublime",
+		"EditorConfig",
+		"Emmet",
+		"FindKeyConflicts",
+		"GenerateUUID",
+		"Git",
+		"Handlebars",
+		"Hide Menu",
+		"Indent and braces",
+		"JSCS-Formatter",
+		"LoremGibson",
+		"Markdown Preview",
+		"Numix Theme",
+		"Origami",
+		"Package Control",
+		"Razor",
+		"ReactJS",
+		"Sass",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-json",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"Theme - Carmesim",
+		"Theme - Flatland",
+		"Theme - Lyte",
+		"Theme - Nil",
+		"Theme - Soda",
+		"Theme - Spaceblack",
+		"ToggleQuotes",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/addyosmani/sublime-fixmyjs",
+		"https://github.com/addyosmani/sublime-fixmyjs"
+	]
+}

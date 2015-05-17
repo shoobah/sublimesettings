@@ -1,0 +1,78 @@
+[{
+  "id": "tools",
+  "children": [{
+    "id": "jscsformatter_tools",
+    "caption": "JSCS Formatter",
+    "children": [{
+      "caption": "Format This File",
+      "command": "format_javascript"
+    }]
+  }]
+}, {
+  "id": "preferences",
+  "children": [{
+    "id": "package-settings",
+    "children": [{
+      "caption": "JSCS Formatter",
+      "children": [{
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/JSCS-Formatter/JSCS-Formatter.sublime-settings"
+        },
+        "caption": "Settings – Default"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/User/JSCS-Formatter.sublime-settings"
+        },
+        "caption": "Settings – User"
+      }, {
+        "caption": "-"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/JSCS-Formatter/Default (OSX).sublime-keymap",
+          "platform": "OSX"
+        },
+        "caption": "Key Bindings – Default"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/JSCS-Formatter/Default (Linux).sublime-keymap",
+          "platform": "Linux"
+        },
+        "caption": "Key Bindings – Default"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/JSCS-Formatter/Default (Windows).sublime-keymap",
+          "platform": "Windows"
+        },
+        "caption": "Key Bindings – Default"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/User/Default (OSX).sublime-keymap",
+          "platform": "OSX"
+        },
+        "caption": "Key Bindings – User"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/User/Default (Linux).sublime-keymap",
+          "platform": "Linux"
+        },
+        "caption": "Key Bindings – User"
+      }, {
+        "command": "open_file",
+        "args": {
+          "file": "${packages}/User/Default (Windows).sublime-keymap",
+          "platform": "Windows"
+        },
+        "caption": "Key Bindings – User"
+      }, {
+        "caption": "-"
+      }]
+    }]
+  }]
+}]

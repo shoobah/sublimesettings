@@ -1,0 +1,20 @@
+[
+	{
+    "keys": ["tab"],
+    "command": "expand_abbreviation_by_tab",
+    "context": [
+        {
+            "operand": "source.js.embedded.html",
+            "operator": "equal",
+            "match_all": true,
+            "key": "selector"
+        }]
+    },
+    { "keys": ["ctrl+shift+z"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+i"], "command": "indent_and_braces", "args": { "from_cursor": true} },
+    { "keys": ["ctrl+j"], "command": "indent_and_braces", "args": { "from_cursor": false} },
+    { "keys": ["ctrl+alt+s"], "command": "save_all" },
+    { "keys": ["ctrl+alt+m"], "command": "toggle_menu" },
+    { "keys": ["ctrl+alt+q"], "command": "change_quotes" },
+    { "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/conlog.sublime-macro"} }
+]

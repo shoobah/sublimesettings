@@ -1,0 +1,4 @@
+{
+  "cmd": ["npm", "run", "prod"],
+  "working_dir": "${project-path:${folder}}"
+}
