@@ -5,6 +5,7 @@
 		"Babel",
 		"BracketHighlighter",
 		"ChangeQuotes",
+		"ColorPicker",
 		"ColorSchemeEditor",
 		"ColorSchemeSelector",
 		"Colorsublime",
@@ -16,6 +17,7 @@
 		"Handlebars",
 		"Hide Menu",
 		"Indent and braces",
+		"Indent XML",
 		"JSCS-Formatter",
 		"LoremGibson",
 		"Markdown Preview",
@@ -40,7 +42,8 @@
 		"Theme - Soda",
 		"Theme - Spaceblack",
 		"ToggleQuotes",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"WakaTime"
 	],
 	"repositories":
 	[

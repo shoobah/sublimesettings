@@ -1,7 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/1337 (SL).tmTheme",
+	"color_scheme": "Packages/User/shoobah2.tmTheme",
 	"draw_minimap_border": false,
 	"enable_tab_scrolling": false,
 	"fade_fold_buttons": false,
@@ -18,7 +18,7 @@
 	[
 		"directwrite"
 	],
-	"font_size": 12,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
