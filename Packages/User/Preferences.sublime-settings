@@ -13,12 +13,12 @@
 		"CVS",
 		"tmp/*"
 	],
-	"font_face": "saxMono",
+	"font_face": "inconsolata-g",
 	"font_options":
 	[
 		"directwrite"
 	],
-	"font_size": 11,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -29,9 +29,11 @@
 	"overlay_scroll_bars": "disabled",
 	"preview_on_click": true,
 	"remember_open_files": false,
+	"scroll_past_end": false,
+	"scroll_speed": 0.5,
 	"show_tab_close_buttons": true,
 	"tab_size": 4,
-	"theme": "Nil.sublime-theme",
+	"theme": "Afterglow.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"wide_caret": true
 }

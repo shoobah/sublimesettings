@@ -16,5 +16,6 @@
     { "keys": ["ctrl+alt+s"], "command": "save_all" },
     { "keys": ["ctrl+alt+m"], "command": "toggle_menu" },
     { "keys": ["ctrl+alt+q"], "command": "change_quotes" },
+    { "keys": ["ctrl+shift+r"], "command": "reindent" },
     { "keys": ["ctrl+shift+x"], "command": "run_macro_file", "args": {"file": "Packages/User/conlog.sublime-macro"} }
 ]
